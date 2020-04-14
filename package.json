@@ -1,6 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "description": "Desafio sobre Conceitos do Node.js aplicado no Bootcamp GoStack",
   "main": "src/server.js",
   "license": "MIT",
   "scripts": {
